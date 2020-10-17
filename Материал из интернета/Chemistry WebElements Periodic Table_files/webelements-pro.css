@@ -1,0 +1,372 @@
+BODY {
+	BACKGROUND: #ffffff; MARGIN: 4px; COLOR: #000000
+}
+PRE {
+	FONT-FAMILY: Monaco, Courier, "MS Courier New", monospace
+}
+H1 {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+H2 {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+H3 {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+H4 {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+P {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+TH {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+TD {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+UL {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+LI {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+OL {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+ADDRESS {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+BODY {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+DT {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+DD {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+SELECT {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+OPTION {
+	FONT-FAMILY: "Lucida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+STRONG {
+	FONT-WEIGHT: bold
+}
+.panel {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; BACKGROUND: #dddddd; BORDER-LEFT: #666666 1px solid; COLOR: #333333; BORDER-BOTTOM: #666666 1px solid; TEXT-DECORATION: none
+}
+A:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #003399; TEXT-DECORATION: none
+}
+A:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #003399; TEXT-DECORATION: none
+}
+A:active {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #009900; TEXT-DECORATION: none
+}
+A:hover {
+	BACKGROUND-IMAGE: none; COLOR: #660066; BACKGROUND-COLOR: #ffccff; TEXT-DECORATION: none
+}
+A.pathAnchor:link {
+	BACKGROUND-IMAGE: none; COLOR: #003399; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+A.pathAnchor:visited {
+	BACKGROUND-IMAGE: none; COLOR: #003399; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+A.pathAnchor:active {
+	BACKGROUND-IMAGE: none; COLOR: #009900; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+A.pathAnchor:hover {
+	BACKGROUND-IMAGE: none; COLOR: #660066; BACKGROUND-COLOR: #cccccc; TEXT-DECORATION: none
+}
+.path {
+	FONT-WEIGHT: normal; FONT-SIZE: 70%; COLOR: #999999; BACKGROUND-COLOR: #ffffff
+}
+.topMenu {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 80%; BORDER-LEFT: #666666 1px solid; COLOR: #000000; BORDER-BOTTOM: #666666 1px solid; BACKGROUND-COLOR: #dddddd
+}
+.topMenu-z {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-SIZE: 80%; BORDER-LEFT: #666666 1px solid; COLOR: #000000; BORDER-BOTTOM: #666666 1px solid; BACKGROUND-COLOR: #dddddd
+}
+.topMenu-special {
+	BORDER-RIGHT: #cc9966 1px solid; BORDER-TOP: #cc9966 1px solid; FONT-SIZE: 80%; BORDER-LEFT: #cc9966 1px solid; COLOR: #000000; BORDER-BOTTOM: #cc9966 1px solid; BACKGROUND-COLOR: #ffcc99
+}
+.logoBar {
+	FONT-SIZE: 80%; BACKGROUND-IMAGE: none; COLOR: #666666; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+.logoBar-z {
+	FONT-SIZE: 80%; BACKGROUND-IMAGE: none; COLOR: #666666; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+.logoLegend {
+	BORDER-RIGHT: #ff3333 1px solid; BORDER-TOP: #ff3333 1px solid; FONT-SIZE: 80%; BACKGROUND-IMAGE: none; BORDER-LEFT: #ff3333 1px solid; COLOR: #000000; BORDER-BOTTOM: #ff3333 1px solid; BACKGROUND-COLOR: #dddddd; TEXT-ALIGN: center
+}
+.elementPanel {
+	FONT-SIZE: 120%; BACKGROUND-IMAGE: none; COLOR: #666666; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+.elementsymbol {
+	FONT-SIZE: 150%; COLOR: #666666; BACKGROUND-COLOR: #ffffff
+}
+.flagPanel {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-SIZE: 80%; BACKGROUND-IMAGE: none; BORDER-LEFT: #666666 1px solid; COLOR: #000000; BORDER-BOTTOM: #666666 1px solid; BACKGROUND-COLOR: #cccccc
+}
+.flagPanel-z {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-SIZE: 80%; BACKGROUND-IMAGE: none; BORDER-LEFT: #666666 1px solid; COLOR: #000000; BORDER-BOTTOM: #666666 1px solid; BACKGROUND-COLOR: #cccccc
+}
+.elementsForeign {
+	BACKGROUND-IMAGE: none; COLOR: #333333; BACKGROUND-COLOR: #ffffff
+}
+OPTION {
+	FONT-SIZE: smaller; BACKGROUND-IMAGE: none; COLOR: #000000; BACKGROUND-COLOR: #cccccc
+}
+SELECT {
+	FONT-SIZE: smaller; BACKGROUND-IMAGE: none; COLOR: #000000; BACKGROUND-COLOR: #cccccc
+}
+INPUT {
+	BACKGROUND-IMAGE: none; COLOR: #000000; BACKGROUND-COLOR: #cccccc
+}
+.menu-panel-l {
+	BACKGROUND-IMAGE: none; COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.menu-panel-r {
+	BACKGROUND-IMAGE: none; COLOR: #999999; BACKGROUND-COLOR: #ffffff
+}
+.main-panel {
+	BACKGROUND-IMAGE: none; COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.menu-head-l {
+	FONT-SIZE: 0.87em; BACKGROUND-IMAGE: none; COLOR: #333333; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: left
+}
+.menu-head-r {
+	FONT-SIZE: 0.87em; BACKGROUND-IMAGE: none; COLOR: #333333; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: left
+}
+.menu-head-z {
+	FONT-SIZE: 0.87em; BACKGROUND-IMAGE: none; COLOR: #333333; BACKGROUND-COLOR: #dddddd; TEXT-ALIGN: left
+}
+.menu-head-charts {
+	FONT-SIZE: 0.87em; BACKGROUND-IMAGE: none; COLOR: #333333; BACKGROUND-COLOR: #dddddd; TEXT-ALIGN: left
+}
+.menu-l {
+	FONT-SIZE: 80%; BACKGROUND-IMAGE: none; COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.menu-l-z {
+	FONT-SIZE: 80%; BACKGROUND-IMAGE: none; COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.menu-l-z-special {
+	FONT-SIZE: 80%; BACKGROUND-IMAGE: none; COLOR: #000000; BACKGROUND-COLOR: #ffcc99
+}
+.menu-l-charts {
+	FONT-SIZE: 80%; BACKGROUND-IMAGE: none; COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.menu-l-selected {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 80%; BACKGROUND-IMAGE: none; BORDER-LEFT: #cccccc 1px solid; COLOR: #000000; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.menulist {
+	MARGIN-TOP: 2px; PADDING-LEFT: 14px; FONT-WEIGHT: normal; BACKGROUND: url(http://www.webelements.com/webelements/support/media/icon/menu-arrow.gif) no-repeat; MARGIN-BOTTOM: 2px; COLOR: #000000
+}
+.menulist-z {
+	MARGIN-TOP: 2px; PADDING-LEFT: 14px; FONT-WEIGHT: normal; BACKGROUND: url(http://www.webelements.com/webelements/support/media/icon/menu-arrow.gif) no-repeat; MARGIN-BOTTOM: 2px; COLOR: #000000
+}
+.menu-r {
+	FONT-SIZE: 80%; COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.menu-r-z {
+	BORDER-RIGHT: #eeeeee 1px solid; BORDER-TOP: #eeeeee 1px solid; FONT-SIZE: 80%; BORDER-LEFT: #eeeeee 1px solid; COLOR: #000000; BORDER-BOTTOM: #eeeeee 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.menu-r-charts {
+	BORDER-RIGHT: #eeeeee 1px solid; BORDER-TOP: #eeeeee 1px solid; FONT-SIZE: 80%; BORDER-LEFT: #eeeeee 1px solid; COLOR: #000000; BORDER-BOTTOM: #eeeeee 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.gutterColumnLeft {
+	COLOR: #ffffff; BACKGROUND-COLOR: #666666
+}
+.gutterColumnLeft-z {
+	COLOR: #ffffff; BACKGROUND-COLOR: #666666
+}
+.gutterColumnRight {
+	COLOR: #ffffff; BACKGROUND-COLOR: #666666
+}
+.gutterColumnRight-z {
+	COLOR: #ffffff; BACKGROUND-COLOR: #666666
+}
+.heading1 {
+	FONT-SIZE: 1.8em; COLOR: #666666; BACKGROUND-COLOR: #ffffff
+}
+.heading1-z {
+	FONT-SIZE: 1.8em; COLOR: #666666; BACKGROUND-COLOR: #ffffff
+}
+.heading2 {
+	FONT-SIZE: 1.2em; COLOR: #666666; BACKGROUND-COLOR: #ffffff
+}
+.heading2-z {
+	FONT-SIZE: 1.2em; COLOR: #666666; BACKGROUND-COLOR: #ffffff
+}
+.heading3 {
+	FONT-SIZE: 1.1em; COLOR: #666666; BACKGROUND-COLOR: #ffffff
+}
+.heading3-z {
+	FONT-SIZE: 1.1em; COLOR: #666666; BACKGROUND-COLOR: #ffffff
+}
+.quickhelp {
+	FONT-SIZE: 85%; LIST-STYLE-IMAGE: url(http://www.webelements.com/webelements/support/media/icon/web-elements-bullet.gif); COLOR: #666666; LIST-STYLE-TYPE: square; BACKGROUND-COLOR: transparent
+}
+.main-image {
+	MARGIN: 6px; TEXT-ALIGN: center
+}
+.image-main-panel {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 6px; FONT-WEIGHT: bold; FONT-SIZE: 0.87em; PADDING-BOTTOM: 6px; MARGIN: 9px; BORDER-LEFT: #cccccc 1px solid; COLOR: #333333; PADDING-TOP: 6px; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #eeeeee; TEXT-ALIGN: center
+}
+.navPanel-s {
+	FONT-WEIGHT: bold; COLOR: #ffffff; BACKGROUND-COLOR: #6699ff
+}
+.navPanel-p {
+	FONT-WEIGHT: bold; COLOR: #ffffff; BACKGROUND-COLOR: #ffcc00
+}
+.navPanel-d {
+	FONT-WEIGHT: bold; COLOR: #ffffff; BACKGROUND-COLOR: #ff6666
+}
+.navPanel-f {
+	FONT-WEIGHT: bold; COLOR: #ffffff; BACKGROUND-COLOR: #00cc33
+}
+.navPanel-g {
+	FONT-WEIGHT: bold; COLOR: #ffffff; BACKGROUND-COLOR: #cc33ff
+}
+.navPanel-void {
+	FONT-WEIGHT: bold; COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.hr {
+	COLOR: #666666; BACKGROUND-COLOR: #ffffff
+}
+.hrx {
+	COLOR: #666666; BACKGROUND-COLOR: #ffffff
+}
+.hrz {
+	COLOR: #666666; BACKGROUND-COLOR: #ffffff
+}
+.main-datahead {
+	COLOR: #ffffff; BACKGROUND-COLOR: #666666; TEXT-ALIGN: center
+}
+.main-datahead-z {
+	COLOR: #ffffff; BACKGROUND-COLOR: #cccccc; TEXT-ALIGN: center
+}
+.main-datahead-charts {
+	COLOR: #ffffff; BACKGROUND-COLOR: #cccccc; TEXT-ALIGN: center
+}
+.main-data {
+	COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.main-data-z {
+	COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.main-data-charts {
+	COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+TH.w5 {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 80%; BORDER-LEFT: #aaaaaa 1px solid; WIDTH: 5%; COLOR: #cc3300; BORDER-BOTTOM: #aaaaaa 1px solid; BACKGROUND-COLOR: #eeeeee
+}
+TH.w2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 80%; WIDTH: 2%; COLOR: #cc3300; BACKGROUND-COLOR: #ffffff
+}
+TH.w8 {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 80%; BORDER-LEFT: #aaaaaa 1px solid; WIDTH: 8%; COLOR: #cc3300; BORDER-BOTTOM: #aaaaaa 1px solid; BACKGROUND-COLOR: #eeeeee
+}
+.x {
+	BORDER-RIGHT: #009900 1px solid; BORDER-TOP: #009900 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #009900 1px solid; COLOR: #333333; BORDER-BOTTOM: #009900 1px solid; BACKGROUND-COLOR: #666666
+}
+.pertable {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; MARGIN: 2px; BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid
+}
+TH.ptableperiodlabel {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; FONT-SIZE: 80%; BORDER-LEFT: #aaaaaa 1px solid; COLOR: #cc3300; BORDER-BOTTOM: #aaaaaa 1px solid; BACKGROUND-COLOR: #eeeeee
+}
+TH.ptable {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 80%; BORDER-LEFT: #999999 1px solid; COLOR: #cc3300; BORDER-BOTTOM: #999999 1px solid; BACKGROUND-COLOR: #dddddd
+}
+.unknown {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #cccccc 1px solid; COLOR: #999999; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.xs {
+	BORDER-RIGHT: #336699 1px solid; BORDER-TOP: #336699 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #336699 1px solid; COLOR: #333333; BORDER-BOTTOM: #336699 1px solid; BACKGROUND-COLOR: #6699ff
+}
+.xp {
+	BORDER-RIGHT: #cc9900 1px solid; BORDER-TOP: #cc9900 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #cc9900 1px solid; COLOR: #333333; BORDER-BOTTOM: #cc9900 1px solid; BACKGROUND-COLOR: #ffcc00
+}
+.xd {
+	BORDER-RIGHT: #cc6666 1px solid; BORDER-TOP: #cc6666 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #cc6666 1px solid; COLOR: #333333; BORDER-BOTTOM: #cc6666 1px solid; BACKGROUND-COLOR: #ff9999
+}
+.xf {
+	BORDER-RIGHT: #009900 1px solid; BORDER-TOP: #009900 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #009900 1px solid; COLOR: #333333; BORDER-BOTTOM: #009900 1px solid; BACKGROUND-COLOR: #00cc33
+}
+.xg {
+	BORDER-RIGHT: #9900cc 1px solid; BORDER-TOP: #9900cc 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #9900cc 1px solid; COLOR: #333333; BORDER-BOTTOM: #9900cc 1px solid; BACKGROUND-COLOR: #cc33ff
+}
+.xz {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #666666 1px solid; COLOR: #333333; BORDER-BOTTOM: #666666 1px solid; BACKGROUND-COLOR: #cccccc
+}
+.searchform {
+	COLOR: #000000; BACKGROUND-COLOR: #cccccc
+}
+.searchformsubmit {
+	COLOR: #000000; BACKGROUND-COLOR: #666666
+}
+ADDRESS {
+	FONT-SIZE: 80%; COLOR: #666666; FONT-STYLE: normal; BACKGROUND-COLOR: transparent; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+TH {
+	FONT-WEIGHT: bold
+}
+.menuitem {
+	FONT-SIZE: 80%; LIST-STYLE-IMAGE: url(http://www.webelements.com/webelements/support/media/icon/web-elements-bullet.gif); COLOR: #ffff00; LIST-STYLE-TYPE: square; BACKGROUND-COLOR: #999999
+}
+.qform {
+	FONT-SIZE: 9pt; COLOR: black; BACKGROUND-COLOR: #ffffff
+}
+.topbar {
+	MARGIN: 4px; TEXT-ALIGN: center
+}
+.bottombar {
+	MARGIN: 4px; TEXT-ALIGN: center
+}
+CAPTION {
+	FONT-WEIGHT: bold; COLOR: #666666; BACKGROUND-COLOR: transparent
+}
+.menu-logo {
+	FONT-SIZE: 80%; COLOR: #660066; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+.menu-l-bg {
+	COLOR: #333333; BACKGROUND-COLOR: #666666
+}
+.menu-l-z-bg {
+	COLOR: #333333; BACKGROUND-COLOR: #666666
+}
+.menu-l-bg {
+	COLOR: #333333; BACKGROUND-COLOR: #666666
+}
+.menu {
+	COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.menu-z {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 80%; BORDER-LEFT: #cccccc 1px solid; COLOR: #333333; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.menu-charts {
+	COLOR: #000000; BACKGROUND-COLOR: #cccccc
+}
+.main-head {
+	COLOR: #666666; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+.main-head-z {
+	COLOR: #666666; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+.main-head-charts {
+	COLOR: #666666; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+.poll-links {
+	COLOR: #000000; BACKGROUND-COLOR: transparent
+}
+.poll-input {
+	FONT-SIZE: smaller
+}
+.charts {
+	COLOR: #000000; BACKGROUND-COLOR: transparent
+}

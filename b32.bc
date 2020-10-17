@@ -1,0 +1,24 @@
+d:\bcc55\lib\c0w32.obj + 
+chemical.obj, + 
+chemical.exe, + 
+chemical.map, + 
+d:\fwh\lib\Fivehx.lib d:\fwh\lib\FiveHc.lib + 
+D:\FWH\ADDONS\richtext\richtext.lib + 
+d:\xharbour.bcc55\lib\optgui.lib + 
+d:\xharbour.bcc55\lib\rtl.lib + 
+d:\xharbour.bcc55\lib\vm.lib + 
+d:\xharbour.bcc55\lib\gtwin.lib + 
+d:\xharbour.bcc55\lib\lang.lib + 
+d:\xharbour.bcc55\lib\macro.lib + 
+d:\xharbour.bcc55\lib\rdd.lib + 
+d:\xharbour.bcc55\lib\dbfntx.lib + 
+d:\xharbour.bcc55\lib\dbfcdx.lib + 
+d:\xharbour.bcc55\lib\dbfdbt.lib + 
+d:\xharbour.bcc55\lib\debug.lib + 
+d:\xharbour.bcc55\lib\common.lib + 
+d:\xharbour.bcc55\lib\pp.lib + 
+d:\bcc55\lib\cw32.lib + 
+d:\bcc55\lib\import32.lib + 
+d:\bcc55\lib\psdk\odbc32.lib + 
+d:\bcc55\lib\psdk\rasapi32.lib, 
+chemical.res 

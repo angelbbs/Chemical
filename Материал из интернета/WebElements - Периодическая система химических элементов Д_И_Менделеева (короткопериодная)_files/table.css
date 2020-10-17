@@ -1,0 +1,87 @@
+BODY {
+	BACKGROUND: #ffffff; MARGIN: 4px; COLOR: #000000
+}
+P {
+	FONT-FAMILY: "Ludida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+TH {
+	FONT-FAMILY: "Ludida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+TD {
+	FONT-FAMILY: "Ludida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+ADDRESS {
+	FONT-FAMILY: "Ludida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+BODY {
+	FONT-FAMILY: "Ludida Grande", Verdana, "trebuchet MS", Geneva, Helvetica, Arial, sans-serif
+}
+A:link {
+	COLOR: #003399; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #003399; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #009900; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #660066; BACKGROUND-COLOR: #ffccff; TEXT-DECORATION: none
+}
+A.gototop {
+	FONT-WEIGHT: bold; FONT-SIZE: 70%
+}
+ADDRESS {
+	FONT-SIZE: 80%; COLOR: #666666; FONT-STYLE: normal; BACKGROUND-COLOR: transparent; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+CAPTION {
+	FONT-WEIGHT: bold; COLOR: #666666; BACKGROUND-COLOR: transparent
+}
+TH {
+	FONT-WEIGHT: bold
+}
+TH.w5 {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 80%; BORDER-LEFT: #666666 1px solid; WIDTH: 5%; COLOR: #cc3300; BORDER-BOTTOM: #666666 1px solid; BACKGROUND-COLOR: #cccccc
+}
+TH.w2 {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 80%; BORDER-LEFT: #ffffff 1px solid; WIDTH: 2%; COLOR: #cc3300; BORDER-BOTTOM: #ffffff 1px solid; BACKGROUND-COLOR: #ffffff
+}
+TH.w8 {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 60%; BORDER-LEFT: #666666 1px solid; WIDTH: 8%; COLOR: #cc3300; BORDER-BOTTOM: #666666 1px solid; BACKGROUND-COLOR: #cccccc
+}
+.x {
+	BORDER-RIGHT: #009900 1px solid; BORDER-TOP: #009900 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #009900 1px solid; COLOR: #333333; BORDER-BOTTOM: #009900 1px solid; BACKGROUND-COLOR: #666666
+}
+.pertable {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; MARGIN: 2px; BORDER-LEFT: #333333 1px solid; BORDER-BOTTOM: #333333 1px solid
+}
+TH.ptableperiodlabel {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-SIZE: 60%; BORDER-LEFT: #666666 1px solid; COLOR: #cc3300; BORDER-BOTTOM: #666666 1px solid; BACKGROUND-COLOR: #cccccc
+}
+TH.ptablerowlabel {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-SIZE: 60%; BORDER-LEFT: #666666 1px solid; COLOR: #cc3300; BORDER-BOTTOM: #666666 1px solid; BACKGROUND-COLOR: #cccccc
+}
+TH.ptable {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 80%; BORDER-LEFT: #666666 1px solid; COLOR: #cc3300; BORDER-BOTTOM: #666666 1px solid; BACKGROUND-COLOR: #cccccc
+}
+.unknown {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #666666 1px solid; COLOR: #999999; BORDER-BOTTOM: #666666 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.xs {
+	BORDER-RIGHT: #336699 1px solid; BORDER-TOP: #336699 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #336699 1px solid; COLOR: #333333; BORDER-BOTTOM: #336699 1px solid; BACKGROUND-COLOR: #6699ff
+}
+.xp {
+	BORDER-RIGHT: #cc9900 1px solid; BORDER-TOP: #cc9900 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #cc9900 1px solid; COLOR: #333333; BORDER-BOTTOM: #cc9900 1px solid; BACKGROUND-COLOR: #ffcc00
+}
+.xd {
+	BORDER-RIGHT: #cc6666 1px solid; BORDER-TOP: #cc6666 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #cc6666 1px solid; COLOR: #333333; BORDER-BOTTOM: #cc6666 1px solid; BACKGROUND-COLOR: #ff9999
+}
+.xf {
+	BORDER-RIGHT: #009900 1px solid; BORDER-TOP: #009900 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #009900 1px solid; COLOR: #333333; BORDER-BOTTOM: #009900 1px solid; BACKGROUND-COLOR: #00cc33
+}
+.xg {
+	BORDER-RIGHT: #9900cc 1px solid; BORDER-TOP: #9900cc 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #9900cc 1px solid; COLOR: #333333; BORDER-BOTTOM: #9900cc 1px solid; BACKGROUND-COLOR: #cc33ff
+}
+.xz {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-SIZE: 90%; BORDER-LEFT: #666666 1px solid; COLOR: #333333; BORDER-BOTTOM: #666666 1px solid; BACKGROUND-COLOR: #cccccc
+}

@@ -1,0 +1,15 @@
+BODY {
+	BACKGROUND-IMAGE: url(pics/backgrounds/fon1.jpg); MARGIN: 0px
+}
+A:link {
+	COLOR: #0000ff; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #0066ff
+}
+A:active {
+	COLOR: #0066ff
+}
+A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
